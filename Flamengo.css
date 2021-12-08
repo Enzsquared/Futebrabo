@@ -1,0 +1,144 @@
+.cabeçalho {
+    width: 1425px;
+    height: 170px;
+    display: flex;
+    background-image: url(Background.jpeg);
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.carrinho {
+background-color: #FF66C4;
+padding: 10px;
+}
+.entrar {
+background-color: #FF66C4;
+padding: 10px;
+}
+a {
+text-decoration: none;
+color: black;
+}
+    #pesquisebut {
+        background-color: #FF66C4;
+        height: 30px;
+}
+
+
+
+.pagina {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 1400px;
+}
+#imagens {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    border: inset 5px;
+    border-style: dashed;
+    border-top-color: #FF66C4;
+    border-bottom-color: #FF66C4;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+#texto {
+    font-size: 32px;
+    border: inset 5px;
+    border-style: dashed;
+    border-top-color: #FF66C4;
+    border-bottom-color: #FF66C4;
+    padding: 30px;
+    text-transform: uppercase;
+}
+#precoecomprar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+#preço {
+    background-image: url(Background.jpeg);
+    color: #FF66C4;
+    width: 215px;
+    border: inset 5px #FF66C4;
+    border-style: groove;
+}
+#comprar {
+    background-image: url(Background.jpeg);
+    background-size: cover;
+    color: #FF66C4;
+    border: inset 5px #FF66C4;
+    border-style: groove;   
+    width: 170px;
+}
+#tamanho {
+    height: 55px;
+    font-size: 32px;
+}
+#tamanhoo {
+    font-size: 32px;
+    background-image: url(Background.jpeg);
+    background-size: cover;
+    color: #FF66C4;
+    border: inset 5px #FF66C4;
+    border-style: groove;
+}
+
+
+
+#rodape{
+    display: flex;
+    background-color: #ff66c4;
+    background-image: url(Background.jpeg);
+    height: 290px;
+    width: 1400px;
+    display: flex;
+    margin-top: 215px;
+    justify-content:left;
+    align-items: center;
+    padding-left: 30px;
+    padding-bottom: 18px;
+    padding-right: 18px;
+}
+#opcoesdepagamento{
+    font-size: 8px;
+    color: #ff66c4;
+}
+#seguranca{
+     align-items: center;
+}
+
+#redessociais{
+    height: 150px;
+    justify-content: start;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 400px;
+    gap: 20px;
+}
+#redes{
+    color: #ff66c4;
+    padding-bottom: 150px;
+    margin-left: 10px;
+}
+#enzo{
+    color: #ff66c4;
+    margin-right: 10px;
+}
+.Linksdev {
+    color: #ff66c4;
+}
+#linksdev {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#opcoesdepagamento {
+    margin-right: 20px;
+}

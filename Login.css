@@ -1,0 +1,130 @@
+.cabeçalho {
+    width: 1425px;
+    height: 170px;
+    display: flex;
+    background-image: url(Background.jpeg);
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.carrinho {
+background-color: #FF66C4;
+padding: 10px;
+}
+.entrar {
+background-color: #FF66C4;
+padding: 10px;
+}
+a {
+text-decoration: none;
+color: black;
+}
+    #pesquisebut {
+        background-color: #FF66C4;
+        height: 30px;
+}
+
+
+
+
+.pagina {
+    display: flex;
+    flex-direction: column;
+    width: 1400px;
+    height: 650px;
+    flex-wrap: nowrap;
+}
+#logecad {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+#login {
+    display: flex;
+    background-image: url(Background.jpeg);
+    background-size: cover;
+    color: #FF66C4;
+    flex-direction: column;
+    width: 650px;
+    border: inset 10px black;
+    border-style: solid;
+    padding: 20px;
+    gap: 10px;
+    height: 300px;
+}
+#cadastro {
+    display: flex;
+    background-image: url(Background.jpeg);
+    background-size: cover;
+    color: #FF66C4;
+    flex-direction: column;
+    width: 650px;
+    border: inset 10px black;
+    border-style: double;
+    padding: 20px;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+#esqueci{
+    text-decoration: underline;
+    color: #FF66C4;
+}
+.botao {
+    color: #FF66C4;
+}
+
+
+
+#rodape{
+    display: flex;
+    background-color: #ff66c4;
+    background-image: url(Background.jpeg);
+    height: 290px;
+    width: 1400px;
+    display: flex;
+    margin-top: 215px;
+    justify-content:left;
+    align-items: center;
+    padding-left: 30px;
+    padding-bottom: 18px;
+    padding-right: 18px;
+}
+#opcoesdepagamento{
+    font-size: 8px;
+    color: #ff66c4;
+}
+#seguranca{
+     align-items: center;
+}
+
+#redessociais{
+    height: 150px;
+    justify-content: start;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 400px;
+    gap: 20px;
+}
+#redes{
+    color: #ff66c4;
+    padding-bottom: 150px;
+    margin-left: 10px;
+}
+#enzo{
+    color: #ff66c4;
+    margin-right: 10px;
+}
+.Linksdev {
+    color: #ff66c4;
+}
+#linksdev {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#opcoesdepagamento {
+    margin-right: 20px;
+}

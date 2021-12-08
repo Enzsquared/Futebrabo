@@ -1,0 +1,121 @@
+.cabeçalho {
+    width: 1425px;
+    height: 170px;
+    display: flex;
+    background-image: url(Background.jpeg);
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.carrinho {
+background-color: #FF66C4;
+padding: 10px;
+}
+.entrar {
+background-color: #FF66C4;
+padding: 10px;
+}
+a {
+text-decoration: none;
+color: black;
+}
+    #pesquisebut {
+        background-color: #FF66C4;
+        height: 30px;
+}
+
+
+#Finalizar {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1400px;
+    gap: 200px;
+    padding: 30px;
+}
+.camisa {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+#resumodacompra {
+    display: flex;
+    flex-direction: column;
+}
+.textofinalizar {
+    color: #FF66C4;
+    background-image: url(Background.jpeg);
+    padding: 10px;
+    border: inset 10px black;
+    border-style: solid;
+}
+#frete {
+    color: #FF66C4;
+}
+#pedido {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+}
+#endereço {
+    color: #FF66C4;
+    text-decoration: underline;
+}
+.botoes {
+    color: #FF66C4;
+}
+
+
+
+#rodape{
+    display: flex;
+    background-color: #ff66c4;
+    background-image: url(Background.jpeg);
+    height: 290px;
+    width: 1400px;
+    display: flex;
+    margin-top: 215px;
+    justify-content:left;
+    align-items: center;
+    padding-left: 30px;
+    padding-bottom: 18px;
+    padding-right: 18px;
+}
+#opcoesdepagamento{
+    font-size: 8px;
+    color: #ff66c4;
+}
+#seguranca{
+     align-items: center;
+}
+
+#redessociais{
+    height: 150px;
+    justify-content: start;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 400px;
+    gap: 20px;
+}
+#redes{
+    color: #ff66c4;
+    padding-bottom: 150px;
+    margin-left: 10px;
+}
+#enzo{
+    color: #ff66c4;
+    margin-right: 10px;
+}
+.Linksdev {
+    color: #ff66c4;
+}
+#linksdev {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#opcoesdepagamento {
+    margin-right: 20px;
+}

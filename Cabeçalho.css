@@ -1,0 +1,25 @@
+.cabeçalho {
+    width: 1200px;
+    height: 150px;
+    display: flex;
+    background-color: #FF66C4;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+}
+.carrinho {
+    background-color: white;
+    padding: 10px;
+}
+.entrar {
+    background-color: white;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#logo {
+    width: 240px;
+    height: 80px;
+}
